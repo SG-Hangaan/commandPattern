@@ -18,5 +18,6 @@ Your challenge is to apply a design pattern that provides a flexible and scalabl
 ![image](https://github.com/SG-Hangaan/commandPattern/assets/127215110/0368023b-2c60-4015-877c-5df05e0a0f27)
 
 
-## Class Diagram
+## UML Class Diagram
+![Command Design Pattern UML](https://github.com/SG-Hangaan/commandPattern/assets/127215110/483a64ae-30e8-4714-be47-4efe724fc83a)
 
